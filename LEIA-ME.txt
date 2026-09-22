@@ -1,0 +1,22 @@
+HOME BATERIA JOINVILLE — ATUALIZAÇÃO
+
+Extraia o ZIP e envie todos os arquivos para a raiz do repositório bateriajoinville, substituindo index.html. Não envie somente o ZIP.
+Endereço configurado: https://rubensjr2026.github.io/bateriajoinville/
+
+AJUSTES
+- Todos os quatro links do WhatsApp abrem em nova guia.
+- Descrição de 102 caracteres, URL canônica e referências estruturadas alinhadas ao endereço informado.
+- Ícone da aba, sitemap.xml e robots.txt incluídos.
+- Dados estruturados de Organization, WebSite, WebPage e Service. O tipo LocalBusiness foi substituído por Organization porque não foi informado endereço físico completo; não foram inventados endereço, avaliações ou horários.
+- Layout móvel, alvos de toque, foco de teclado, prioridade da foto principal e carregamento adiado da foto secundária.
+
+PONTOS QUE DEPENDEM DA PUBLICAÇÃO
+- Em GitHub Pages com subpasta, os buscadores consultam robots.txt na raiz do domínio: https://rubensjr2026.github.io/robots.txt . Coloque uma cópia do robots.txt no repositório que publica essa raiz, se você o tiver. O arquivo em /bateriajoinville/robots.txt não controla o rastreamento.
+- Envie https://rubensjr2026.github.io/bateriajoinville/sitemap.xml ao Google Search Console.
+- Perfis de redes sociais não foram incluídos porque seus endereços oficiais não foram fornecidos.
+- Hreflang não é necessário para uma página somente em português sem versões alternativas.
+- INP real precisa de dados de uso; não há JavaScript de interação na home. Não foi possível reproduzir a nota do programa usado no relatório.
+- A falha de medição do DOM relatada pelo programa não indica, por si só, DOM excessivo. A home foi verificada com 271 elementos.
+- Verificadas telas de 320 e 360 pixels sem transbordamento horizontal, todas as imagens carregadas e quatro links com target=_blank.
+- As duas fotografias continuam hospedadas no Pexels, como na versão original.
+- Refazer a auditoria após publicar. Não há garantia de nota ou posição no Google; backlinks e presença social dependem de ações externas ao HTML.
